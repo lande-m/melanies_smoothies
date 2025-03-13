@@ -7,8 +7,8 @@ st.title("My Parents New Healthy Diner")
 st.write(
     """Breakfast Menu\n
        Omega 3 & Blueberry Oatmeal\n
-       Kale, Spinach & Rocket Smoothie\n
-       Hard-Boiled Free-Range Egg
+    Kale, Spinach & Rocket Smoothie\n
+    Hard-Boiled Free-Range Egg
     """)
 
 name_on_order = st.text_input("Name on Smoothie: ")
