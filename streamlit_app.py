@@ -5,9 +5,9 @@ from snowflake.snowpark.functions import col
 # Write directly to the app
 st.title("My Parents New Healthy Diner")
 st.write(
-    """Breakfast Menu
-       Omega 3 & Blueberry Oatmeal
-       Kale, Spinach & Rocket Smoothie
+    """Breakfast Menu\n
+       Omega 3 & Blueberry Oatmeal\n
+       Kale, Spinach & Rocket Smoothie\n
        Hard-Boiled Free-Range Egg
     """)
 
